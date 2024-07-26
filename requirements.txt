@@ -1,0 +1,7 @@
+torch
+galore-torch
+datasets
+transformers
+trl
+wandb
+huggingface_hub[cli]
